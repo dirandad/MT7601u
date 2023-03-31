@@ -38,7 +38,7 @@ struct _RTMP_ADAPTER;
 #define MAC_RF_BANK 7
 
 #define MAX_CHECK_COUNT 200
-#define MT7601_VALID_EEPROM_VERSION			0x0C
+#define MT7601_VALID_EEPROM_VERSION			0x0D
 
 #define ENABLE_WLAN_FUN(__WlanFunCtrl)\
 {\
